@@ -22,5 +22,5 @@ The purpose of this analysis is to determine the number of retiring employees pe
 ![image](https://user-images.githubusercontent.com/108442512/188276256-f9aaef62-42c8-458e-bb3d-86c4c5fd655a.png)
 
 
-## Conclusion
+## Summary
 After creating the tables I believe Pewlett Hackard is in a great position to set up their mentor program not just for now, but they will have a good idea of who will be eligible in the upcoming years as well. This should allow them to get ahead of the issue and create a game plan that will help them deal with their large retiring body of employees. Since the majority of the retiring employees are in some kind of senior position I believe a mentorship program is a great idea. All those years of experience could go to waste otherwise.
